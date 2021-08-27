@@ -19,7 +19,7 @@
     <a target="_blank" href="https://github.com/GrStas">
         <img src="https://img.shields.io/badge/made by-GrStas-green">
     </a>
-    <a target="_blank" href="https://github.com/gamecms/about/blob/main/LICENSE">
+    <a target="_blank" href="https://github.com/GameCMS/About/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-Proprietary software-blue">
     </a>
 </p>
