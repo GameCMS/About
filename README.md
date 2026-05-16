@@ -6,8 +6,8 @@
     <a target="_blank" href="https://gamecms.ru/">
         <img src="https://img.shields.io/badge/home-gamecms.ru-4773ff">
     </a>
-    <a target="_blank" href="https://demo.gamecms.ru/">
-        <img src="https://img.shields.io/badge/example-demo.gamecms.ru-45698b">
+    <a target="_blank" href="https://stage.gamecms.ru/">
+        <img src="https://img.shields.io/badge/example-stage.gamecms.ru-45698b">
     </a>
     <a target="_blank" href="https://t.me/gamecms">
         <img src="https://img.shields.io/badge/-gamecms-white?logo=telegram">
@@ -26,10 +26,10 @@
 
 <table width="100%" border="0">
    <tr>
-      <td width="40%"><img width="100%" src="https://gamecms.ru/templates/public/assets/production/img/monitor-small.png?v=1"></td>
+      <td width="40%"><img width="100%" src="https://gamecms.ru/templates/public/assets/production/img/monitor-small.png?v=2"></td>
       <td width="60%">
          <h3>GameCMS - система создания сайта</h3>
-         <p>Функционал движка направлен на удовлетворение нужд владельцев различных игровых сообществ и их игроков. Сайт, созданный на GameCMS позволит в автоматическом режиме монетизировать игровые сервера, предоставит игрокам площадку для общения, даст возможность получить помощь путем открытия тикета или заявки на разбан, для апелляции бана, обеспечит информационное поле для проекта, где можно будет изучить последние новости проекта, статистику игроков, различные админ и бан листы, правила проекта и т.д. Движок преимущественно интегрирован под онлайн игры Counter-Strike 1.6, Counter-Strike Source, Counter-Strike: Global Offensive</p>
+         <p>Функционал движка направлен на удовлетворение нужд владельцев различных игровых сообществ и их игроков. Сайт, созданный на GameCMS позволит в автоматическом режиме монетизировать игровые сервера, предоставит игрокам площадку для общения, даст возможность получить помощь путем открытия тикета или заявки на разбан, для апелляции бана, обеспечит информационное поле для проекта, где можно будет изучить последние новости проекта, статистику игроков, различные админ и бан листы, правила проекта и т.д. Движок преимущественно интегрирован под онлайн игры Counter-Strike 1.6, Counter-Strike Source, Counter-Strike: Global Offensive, Counter-Strike: 2</p>
       </td>
    </tr>
 </table>
@@ -85,7 +85,7 @@
 настройки при этом останутся прежними
 
 <h2 align="center">Модули</h2>
-<img src="https://gamecms.ru/templates/public/assets/production/img/modules.png?v=1">
+<img src="https://gamecms.ru/templates/public/assets/production/img/modules.png?v=2">
 
 С помощью модулей Вы сможете установить на сайт дополнительный функционал, которого нет в базовой версии движка.
 > Для установки модуля, достаточно купить ключ и ввести его в панели управления движка
@@ -93,7 +93,7 @@
 [➦ Перейти к модулям](https://gamecms.ru/modules-directory)
 
 <h2 align="center">Шаблоны</h2>
-<img src="https://gamecms.ru/templates/public/assets/production/img/templates.png?v=1">
+<img src="https://gamecms.ru/templates/public/assets/production/img/templates.png?v=2">
 
 При помощи шаблонов Вы можете легко сменить внешний вид Вашего сайта. Вы можете воспользоваться как стандартными, так и дополнительными шаблонами
 > Для установки дополнительных шаблонов, достаточно купить ключ и ввести его в панели управления движка
@@ -103,5 +103,5 @@
 <h2 align="center">Полезные ссылки</h2>
 
 - [Документация GameCMS](https://gamecms.ru/wiki/)
-- [Хронология развития](https://gamecms.ru/about/chronology)
+- [Хронология развития](https://gamecms.ru/updates)
 - [Поддерживаемые игры](https://gamecms.ru/about/games)
